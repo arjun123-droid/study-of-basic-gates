@@ -85,12 +85,12 @@ endmodule
 ![exp 1 de](https://github.com/user-attachments/assets/d743f049-44f7-4ef1-a53b-44d8630a870c)
 
 **RTL realization Output:** 
-<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/1a6e37c2-b3b0-4454-874f-00e343a63a0b" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-11-12 141143" src="https://github.com/user-attachments/assets/d4456818-ce84-407b-aea5-a5a7b3322573" />
 
 
 **RTL**
-
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/1a6e37c2-b3b0-4454-874f-00e343a63a0b" />
 **Result:**
 
 
